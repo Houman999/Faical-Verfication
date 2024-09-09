@@ -27,4 +27,4 @@ This project implements a **Siamese Neural Network** architecture, commonly used
 
 
 ## Conclusion
-**FaceVerification** demonstrates the potential of deep learning and computer vision in building practical applications. By leveraging the **Siamese Neural Network architecture**, this project provides a reliable face verification solution. Feel free to explore, contribute, and utilize the project for your own applications.
+**FaceVerification** demonstrates the potential of deep learning and computer vision in building practical sys. By leveraging the **Siamese Neural Network architecture**, this project provides a reliable face verification solution. Feel free to explore, contribute, and utilize the project for your own applications.
